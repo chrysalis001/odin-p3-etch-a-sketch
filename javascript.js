@@ -50,4 +50,3 @@ function clear() {
         box.classList.remove("box-hover");
     })
 }
-
